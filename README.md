@@ -1,5 +1,8 @@
 # Work In Progress!
 
+![sensors_pic]()
+
+
 # Prerequisite's
 
 1. Have Tk Installed on Your System
