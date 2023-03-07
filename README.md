@@ -12,7 +12,7 @@ Arch:
 Ubuntu/Debian:
 
 `sudo apt install python-tk`
-OR
+ OR 
 `sudo apt install python3-tk`
 
 
