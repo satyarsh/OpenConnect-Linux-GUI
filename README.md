@@ -4,7 +4,7 @@
 
 1. Have Tk Installed on Your System
 
-### Installing Using a Package Manager
+### Installing Tk Using a Package Manager
 
 Arch:
 `sudo pacman -S tk`
