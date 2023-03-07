@@ -1,6 +1,6 @@
 # Work In Progress!
 
-![sensors_pic]()
+![ScreenShot](https://raw.githubusercontent.com/stking68/OpenConnect-Linux-GUI/main/screenshot.png)
 
 
 # Prerequisite's
