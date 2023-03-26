@@ -13,8 +13,7 @@
 - a Data base file called `database.db` will be created after running the app for the first time that will store all the account info, if you choose to do so.
 
 - No sudo password will be stored! You'll be prompted to enter your password every-time when running the app for maximum security
-
-- <br>
+<br>
 
 ### Prerequisite's :
 
@@ -26,6 +25,7 @@
 ### Installing Prerequisite's Using a Package Manager :
 
 Arch:
+
 `sudo pacman -S tk openconnect vpnc python-pip`
 
 Ubuntu/Debian:
@@ -33,6 +33,7 @@ Ubuntu/Debian:
 `sudo apt install python3-tk openconnect vpnc vpnc-script python3-pip`
 
 Fedora:
+
 `sudo dnf install python3-tkinter openconnect vpnc vpnc-script python3-pip`
 
 <br>
