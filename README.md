@@ -1,5 +1,3 @@
-# Work In Progress!
-
 #### ScreenShot :
 
 ![ScreenShot](https://raw.githubusercontent.com/stking68/OpenConnect-Linux-GUI/main/screenshot1.png) 
