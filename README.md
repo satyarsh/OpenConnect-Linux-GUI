@@ -11,7 +11,6 @@
 - a Data base file called `database.db` will be created after running the app for the first time that will store all the account info, if you choose to do so.
 
 - No sudo password will be stored! You'll be prompted to enter your password every-time when running the app for maximum security
-<br>
 
 ### Prerequisite's :
 
