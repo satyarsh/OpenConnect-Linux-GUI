@@ -43,7 +43,7 @@ pip install tkterminal
 
 ### Usage / Installation :
 
-###### Note : if Git is not installed do so with :
+##### Note : if Git is not installed do so with :
 
 Ubuntu/Debian:
 
