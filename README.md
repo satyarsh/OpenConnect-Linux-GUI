@@ -1,6 +1,6 @@
 #### ScreenShot :
 
-![ScreenShot](https://raw.githubusercontent.com/stking68/OpenConnect-Linux-GUI/main/screenshot1.png) 
+![ScreenShot](https://raw.githubusercontent.com/satyarsh/OpenConnect-Linux-GUI/main/screenshot1.png) 
 
 ### Features :
 
@@ -60,7 +60,7 @@ sudo dnf upgrade --refresh && sudo dnf install git
 ##### Installation :
 
 ```
-git clone https://github.com/stking68/OpenConnect-Linux-GUI.git
+git clone https://github.com/satyarsh/OpenConnect-Linux-GUI.git
 cd OpenConnect-Linux-GUI/
 python3 oc-gui.py
 ```
