@@ -1,7 +1,7 @@
 ###############################################################################
 """
-Created By stking68
-https://github.com/stking68
+Created By Satyar Sh
+https://github.com/satyarsh
 
 
 tkterminal by Saadmairaj
